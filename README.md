@@ -17,7 +17,6 @@ d’association.
 
 ## Technologies
 - BaseX (XML native database)
-- MongoDB (JSON native database)
 - PostgreSQL (JSONB support)
 - Neo4j (graph database)
 - Weka (association rule mining)
