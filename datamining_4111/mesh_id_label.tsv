@@ -1,0 +1,650 @@
+C000592401	sarilumab
+C000596027	baricitinib
+C000606551	remdesivir
+C000656865	talaromycosis
+C000657245	[obsolete] covid-19
+C003043	paraform
+C007293	dapi
+C016679	[obsolete] polyacrylamide
+C023676	chloroquine diphosphate
+C024865	polyvinylidene fluoride
+C032159	acetonitrile
+C034532	camostat
+C086979	umifenovir
+C411644	trizol
+C462182	favipiravir
+C502936	tocilizumab
+C535395	atelosteogenesis type 2
+C535733	emanuel syndrome
+C535742	congenital disorder of glycosylation type 1d
+C535882	johnson neuroectodermal syndrome
+C536227	cyclic neutropenia
+C536395	neonatal herpes
+C536439	corneal endothelial dystrophy type 2
+C536767	xk aprosencephaly
+C536920	tight skin contracture syndrome, lethal
+C537017	bulbospinal neuronopathy, x-linked recessive
+C537418	opitz trigonocephaly syndrome
+C537501	strudwick syndrome
+C537866	oculocerebral hypopigmentation syndrome type preus
+C538137	hyperferritinemia, hereditary, with congenital cataracts
+C538614	papillary renal cell carcinoma, sporadic
+C540383	ruxolitinib
+C558899	lopinavir-ritonavir drug combination
+C563010	neutrophilia, hereditary
+C569686	alexa fluor 647
+D000013	congenital abnormalities
+D000014	abnormalities, drug-induced
+D000067073	psychological trauma
+D000067390	cold injury
+D000068376	compassion fatigue
+D000069283	rituximab
+D000069285	infliximab
+D000070642	brain injuries, traumatic
+D000071079	stenosis, pulmonary artery
+D000073893	sugars
+D000077266	moxifloxacin
+D000077559	sodium citrate
+D000077731	meropenem
+D000079225	psychological distress
+D000081029	pulmonary arterial hypertension
+D000082	acetaminophen
+D000096	acetone
+D000138	acidosis
+D000163	acquired immunodeficiency syndrome
+D000208	acute disease
+D000225	adenine
+D000230	adenocarcinoma
+D000241	adenosine
+D000255	adenosine triphosphate
+D000275	adjustment disorders
+D000309	adrenal insufficiency
+D000336	aerosols
+D000362	agar
+D000370	ageusia
+D000402	airway obstruction
+D000409	alanine
+D000431	ethanol
+D000432	methanol
+D000437	alcoholism
+D000438	alcohols
+D000450	aldosterone
+D000535	aluminum
+D000544	alzheimer disease
+D000577	amides
+D000588	amines
+D000740	anemia
+D000783	aneurysm
+D000787	angina pectoris
+D000806	angiotensin-converting enzyme inhibitors
+D000853	anophthalmos
+D000855	anorexia
+D000857	olfaction disorders
+D000860	hypoxia
+D000900	anti-bacterial agents
+D000998	antiviral agents
+D001007	anxiety
+D001049	apnea
+D001064	appendicitis
+D001068	feeding and eating disorders
+D001102	arbovirus infections
+D001120	arginine
+D001145	arrhythmias, cardiac
+D001168	arthritis
+D001171	arthritis, juvenile
+D001172	arthritis, rheumatoid
+D001205	ascorbic acid
+D001224	aspartic acid
+D001241	aspirin
+D001247	asthenia
+D001249	asthma
+D001259	ataxia
+D001281	atrial fibrillation
+D001289	attention deficit disorder with hyperactivity
+D001321	autistic disorder
+D001327	autoimmune diseases
+D001379	azathioprine
+D001416	back pain
+D001424	bacterial infections
+D001464	barium
+D001480	basal ganglia diseases
+D001523	mental disorders
+D001663	bilirubin
+D001710	biotin
+D001714	bipolar disorder
+D001749	urinary bladder neoplasms
+D001766	blindness
+D001778	blood coagulation disorders
+D001855	bone marrow diseases
+D001919	bradycardia
+D001927	brain diseases
+D001929	brain edema
+D001930	brain injuries
+D001932	brain neoplasms
+D001943	breast neoplasms
+D001991	bronchitis
+D002104	cadmium
+D002118	calcium
+D002241	carbohydrates
+D002244	carbon
+D002245	carbon dioxide
+D002248	carbon monoxide
+D002277	carcinoma
+D002280	basal cell carcinoma
+D002289	carcinoma, non-small-cell lung
+D002294	carcinoma, squamous cell
+D002303	cardiac output, low
+D002311	cardiomyopathy, dilated
+D002318	cardiovascular diseases
+D002386	cataract
+D002395	catecholamines
+D002443	ceftriaxone
+D002493	enfermedades del sistema nervioso central
+D002494	central nervous system infections
+D002543	cerebral hemorrhage
+D002544	cerebral infarction
+D002545	brain ischemia
+D002561	cerebrovascular disorders
+D002586	cesium
+D002637	chest pain
+D002710	chlorhexidine
+D002713	chlorine
+D002738	chloroquine
+D002784	cholesterol
+D002908	chronic disease
+D002945	cisplatin
+D003072	cognition disorders
+D003078	colchicine
+D003092	colitis
+D003110	colonic neoplasms
+D003128	coma
+D003141	communicable diseases
+D003231	conjunctivitis
+D003244	consciousness disorders
+D003248	constipation
+D003300	copper
+D003324	coronary artery disease
+D003371	cough
+D003401	creatine
+D003404	creatinine
+D003424	crohn disease
+D003428	cross infection
+D003520	cyclophosphamide
+D003545	cysteine
+D003550	cystic fibrosis
+D003596	cytosine
+D003643	death
+D003645	death, sudden
+D003680	deglutition disorders
+D003681	dehydration
+D003693	delirium
+D003704	dementia
+D003711	demyelinating diseases
+D003903	deuterium
+D003907	dexamethasone
+D003920	diabetes mellitus
+D003922	diabetes mellitus, type 1
+D003924	diabetes mellitus, type 2
+D003967	diarrhea
+D004067	digestive system neoplasms
+D004121	dimethyl sulfoxide
+D004211	disseminated intravascular coagulation
+D004229	dithiothreitol
+D004244	dizziness
+D004298	dopamine
+D004318	doxycycline
+D004342	drug hypersensitivity
+D004408	dysgeusia
+D004417	dyspnea
+D004421	dystonia
+D004487	edema
+D004492	edetic acid
+D004630	emergencies
+D004646	emphysema
+D004660	encephalitis
+D004673	encephalomyelitis, acute disseminated
+D004801	eosine yellowish-(ys)
+D004827	epilepsy
+D004837	epinephrine
+D004890	erythema
+D004958	estradiol
+D005076	exanthema
+D005184	fallopian tube diseases
+D005221	fatigue
+D005227	fatty acids
+D005234	fatty liver
+D005334	fever
+D005355	fibrosis
+D005419	flavonoids
+D005483	flushing
+D005492	folic acid
+D005557	formaldehyde
+D005597	fractures, open
+D005759	gastroenteritis
+D005767	gastrointestinal diseases
+D005776	gaucher disease
+D005840	gentian violet
+D005862	gerstmann syndrome
+D005901	glaucoma
+D005921	glomerulonephritis
+D005947	glucose
+D005973	glutamine
+D005978	glutathione
+D005998	glycine
+D006025	glycosaminoglycans
+D006086	graft vs host disease
+D006147	guanine
+D006258	head and neck neoplasms
+D006261	headache
+D006323	heart arrest
+D006327	heart block
+D006330	heart defects, congenital
+D006331	heart diseases
+D006333	heart failure
+D006335	heart injuries
+D006349	heart valve diseases
+D006371	helium
+D006402	hematologic diseases
+D006406	hematoma
+D006416	hematoxylin
+D006417	hematuria
+D006461	hemolysis
+D006469	hemoptysis
+D006470	hemorrhage
+D006480	hemorrhagic fever with renal syndrome
+D006493	heparin
+D006495	heparin, low-molecular-weight
+D006497	heparan sulfate
+D006509	hepatitis b
+D006525	hepatitis, viral, human
+D006526	hepatitis c
+D006527	hepatolenticular degeneration
+D006528	carcinoma, hepatocellular
+D006531	hepes
+D006620	hip fractures
+D006623	von hippel-lindau disease
+D006632	histamine
+D006639	histidine
+D006816	huntington disease
+D006851	hydrochloric acid
+D006854	hydrocortisone
+D006859	hydrogen
+D006861	hydrogen peroxide
+D006886	hydroxychloroquine
+D006935	hypercapnia
+D006943	hyperglycemia
+D006948	hyperkinesis
+D006949	hyperlipidemias
+D006965	hyperplasia
+D006973	hypertension
+D006976	hypertension, pulmonary
+D006987	hypesthesia
+D007008	hypokalemia
+D007010	hyponatremia
+D007022	hypotension
+D007029	hypothalamic neoplasms
+D007037	hypothyroidism
+D007039	hypotrichosis
+D007052	ibuprofen
+D007153	immunologic deficiency syndromes
+D007154	immune system diseases
+D007174	disruptive, impulse control, and conduct disorders
+D007238	infarction
+D007239	infections
+D007247	infertility, female
+D007249	inflammation
+D007251	influenza, human
+D007319	sleep initiation and maintenance disorders
+D007410	intestinal diseases
+D007455	iodine
+D007501	iron
+D007511	ischemia
+D007589	job syndrome
+D007592	joint diseases
+D007649	ketamine
+D007674	kidney diseases
+D007676	kidney failure, chronic
+D007703	peptidyl-dipeptidase a
+D007854	lead
+D007859	learning disabilities
+D007930	leucine
+D007938	leukemia
+D007951	leukemia, myeloid
+D007964	leukocytosis
+D007970	leukopenia
+D008055	lipids
+D008070	lipopolysaccharides
+D008094	lithium
+D008103	liver cirrhosis
+D008107	liver diseases
+D008133	long qt syndrome
+D008171	lung diseases
+D008175	lung neoplasms
+D008180	lupus erythematosus, systemic
+D008206	lymphatic diseases
+D008223	lymphoma
+D008231	lymphopenia
+D008239	lysine
+D008268	macular degeneration
+D008274	magnesium
+D008288	malaria
+D008310	malocclusion
+D008545	melanoma
+D008569	memory disorders
+D008581	meningitis
+D008589	meningococcal infections
+D008607	intellectual disability
+D008628	mercury
+D008659	metabolic diseases
+D008661	metabolism, inborn errors
+D008670	metals
+D008687	metformin
+D008691	methadone
+D008727	methotrexate
+D008751	methylene blue
+D008775	methylprednisolone
+D008881	migraine disorders
+D009059	mouth diseases
+D009069	movement disorders
+D009080	mucocutaneous lymph node syndrome
+D009101	multiple myeloma
+D009102	multiple organ failure
+D009103	multiple sclerosis
+D009127	muscle rigidity
+D009135	muscular diseases
+D009140	musculoskeletal diseases
+D009173	mycophenolic acid
+D009181	mycoses
+D009187	myelitis
+D009190	myelodysplastic syndromes
+D009202	cardiomyopathies
+D009203	myocardial infarction
+D009205	myocarditis
+D009207	myoclonus
+D009223	myotonic dystrophy
+D009325	nausea
+D009336	necrosis
+D009362	neoplasm metastasis
+D009369	neoplasms
+D009404	nephrotic syndrome
+D009410	nerve degeneration
+D009422	nervous system diseases
+D009436	neural tube defects
+D009437	neuralgia
+D009447	neuroblastoma
+D009461	neurologic manifestations
+D009503	neutropenia
+D009538	nicotine
+D009569	nitric oxide
+D009584	nitrogen
+D009638	norepinephrine
+D009705	nucleosides
+D009757	nylons
+D009765	obesity
+D009771	obsessive-compulsive disorder
+D009784	occupational diseases
+D009798	ocular hypertension
+D009800	oculocerebrorenal syndrome
+D009821	oils
+D009841	oligonucleotides
+D009894	opportunistic infections
+D010003	osteoarthritis
+D010024	osteoporosis
+D010051	ovarian neoplasms
+D010100	oxygen
+D010126	ozone
+D010146	pain
+D010190	pancreatic neoplasms
+D010195	pancreatitis
+D010232	paraffin
+D010243	paralysis
+D010259	paranoid disorders
+D010272	parasitic diseases
+D010300	parkinson disease
+D010302	parkinson disease, secondary
+D010406	penicillins
+D010455	peptides
+D010490	pericardial effusion
+D010493	pericarditis
+D010608	pharyngeal diseases
+D010649	phenylalanine
+D010698	phobic disorders
+D010710	phosphates
+D010743	phospholipids
+D010996	pleural effusion
+D011008	pneumococcal infections
+D011014	pneumonia
+D011020	pneumonia, pneumocystis
+D011024	pneumonia, viral
+D011027	pneumoperitoneum
+D011030	pneumothorax
+D011051	poliomyelitis
+D011092	polyethylene glycols
+D011108	polymers
+D011125	adenomatous polyposis coli
+D011126	polypropylenes
+D011134	polysaccharides
+D011136	polysorbates
+D011137	polystyrenes
+D011188	potassium
+D011239	prednisolone
+D011241	prednisone
+D011251	pregnancy complications, infectious
+D011392	proline
+D011471	prostatic neoplasms
+D011507	proteinuria
+D011537	pruritus
+D011595	psychomotor agitation
+D011596	psychomotor disorders
+D011605	psychoses, substance-induced
+D011618	psychotic disorders
+D011654	pulmonary edema
+D011655	pulmonary embolism
+D011658	pulmonary fibrosis
+D011794	quercetin
+D012030	refractive errors
+D012080	chronic kidney disease-mineral and bone disorder
+D012120	respiration disorders
+D012128	respiratory distress syndrome
+D012131	respiratory insufficiency
+D012140	respiratory tract diseases
+D012141	respiratory tract infections
+D012163	retinal detachment
+D012164	retinal diseases
+D012213	rheumatic fever
+D012216	rheumatic diseases
+D012220	rhinitis
+D012254	ribavirin
+D012400	rotavirus infections
+D012409	rubella
+D012421	rupture
+D012492	salts
+D012509	sarcoma
+D012559	schizophrenia
+D012640	seizures
+D012678	sensation disorders
+D012685	sepharose
+D012694	serine
+D012769	shock
+D012770	shock, cardiogenic
+D012772	shock, septic
+D012817	signs and symptoms, digestive
+D012818	signs and symptoms, respiratory
+D012822	silicon dioxide
+D012834	silver
+D012851	sinus thrombosis, intracranial
+D012871	skin diseases
+D012878	skin neoplasms
+D012891	sleep apnea syndromes
+D012892	sleep deprivation
+D012893	sleep wake disorders
+D012964	sodium
+D012965	sodium chloride
+D012967	sodium dodecyl sulfate
+D012973	sodium hypochlorite
+D013203	staphylococcal infections
+D013226	status epilepticus
+D013256	steroids
+D013274	stomach neoplasms
+D013307	streptomycin
+D013313	stress disorders, post-traumatic
+D013345	subarachnoid hemorrhage
+D013455	sulfur
+D013575	syncope
+D013610	tachycardia
+D013651	taste disorders
+D013667	technetium
+D013725	terbium
+D013739	testosterone
+D013746	tetany
+D013921	thrombocytopenia
+D013923	thromboembolism
+D013927	thrombosis
+D014202	tremor
+D014280	triglycerides
+D014376	tuberculosis
+D014456	ulcer
+D014508	urea
+D014527	uric acid
+D014552	urinary tract infections
+D014581	urticaria
+D014612	vaccines
+D014640	vancomycin
+D014657	vasculitis
+D014693	ventricular fibrillation
+D014766	viremia
+D014777	virus diseases
+D014786	vision disorders
+D014801	vitamin a
+D014805	vitamin b 12
+D014807	vitamin d
+D014839	vomiting
+D014842	von willebrand diseases
+D014867	water
+D014947	wounds and injuries
+D014987	xerostomia
+D015047	zoonoses
+D015179	colorectal neoplasms
+D015212	inflammatory bowel diseases
+D015415	biomarkers
+D015430	weight gain
+D015431	weight loss
+D015451	leukemia, lymphocytic, chronic, b-cell
+D015470	leukemia, myeloid, acute
+D015658	hiv infections
+D015673	fatigue syndrome, chronic
+D015746	abdominal pain
+D015835	ocular motility disorders
+D016207	cytokines
+D016393	lymphoma, b-cell
+D016559	tacrolimus
+D016572	cyclosporine
+D016584	panic disorder
+D016638	critical illness
+D016751	hepatitis e
+D016920	meningitis, bacterial
+D017093	liver failure
+D017114	liver failure, acute
+D017180	tachycardia, ventricular
+D017382	reactive oxygen species
+D017563	lung diseases, interstitial
+D017566	microvascular angina
+D017830	octoxynol
+D017887	ossification of posterior longitudinal ligament
+D017963	azithromycin
+D017984	enoxaparin
+D018177	flavivirus infections
+D018352	coronavirus infections
+D018357	respiratory syncytial virus infections
+D018376	cardiovascular abnormalities
+D018450	disease progression
+D018455	protein s deficiency
+D018476	hypokinesia
+D018487	ventricular dysfunction, left
+D018698	glutamic acid
+D018754	ventricular dysfunction
+D018771	arthralgia
+D018805	sepsis
+D018908	muscle weakness
+D018942	macrolides
+D018980	williams syndrome
+D019052	depression, postpartum
+D019142	hemorrhagic fever, ebola
+D019337	hematologic neoplasms
+D019344	lactic acid
+D019438	ritonavir
+D019636	neurodegenerative diseases
+D019698	hepatitis c, chronic
+D019808	losartan
+D019810	sodium azide
+D019851	thrombophilia
+D019964	mood disorders
+D019965	neurocognitive disorders
+D019966	substance-related disorders
+D020018	sexual dysfunctions, psychological
+D020031	epstein-barr virus infections
+D020144	basal ganglia cerebrovascular disease
+D020246	venous thrombosis
+D020257	ventricular remodeling
+D020258	neurotoxicity syndromes
+D020271	heredodegenerative disorders, nervous system
+D020300	intracranial hemorrhages
+D020521	stroke
+D021081	chronobiology disorders
+D024821	metabolic syndrome
+D025861	blood coagulation disorders, inherited
+D028361	mitochondrial diseases
+D029424	pulmonary disease, chronic obstructive
+D030342	genetic diseases, inborn
+D030361	papillomavirus infections
+D034141	hypoalbuminemia
+D034381	hearing loss
+D034721	mastocytosis, systemic
+D040921	stress disorders, traumatic
+D043183	irritable bowel syndrome
+D044342	malnutrition
+D045169	severe acute respiratory syndrome
+D048909	diabetes complications
+D049310	distal myopathies
+D050171	dyslipidemias
+D050197	atherosclerosis
+D050497	stillbirth
+D050723	fractures, bone
+D051271	headache disorders, secondary
+D051359	lymphohistiocytosis, hemophagocytic
+D051436	renal insufficiency, chronic
+D051437	renal insufficiency
+D052016	mucositis
+D053139	oseltamivir
+D053609	lethargy
+D054058	acute coronary syndrome
+D054537	atrioventricular block
+D054549	takotsubo cardiomyopathy
+D054556	venous thromboembolism
+D054990	idiopathic pulmonary fibrosis
+D055370	lung injury
+D055371	acute lung injury
+D055501	macrophage activation syndrome
+D056486	chemical and drug induced liver injury
+D056587	cryopyrin-associated periodic syndromes
+D056784	leukoencephalopathies
+D057049	thrombotic microangiopathies
+D057772	vascular system injuries
+D058186	acute kidney injury
+D058345	asymptomatic infections
+D058540	aicardi syndrome
+D058625	end stage liver disease
+D058729	peripheral arterial disease
+D059246	tachypnea
+D059350	chronic pain
+D059390	breakthrough pain
+D059787	acute pain
+D059808	polyphenols
+D060085	coinfection
+D060825	cognitive dysfunction
+D061325	hereditary breast and ovarian cancer syndrome
+D061466	lopinavir
+D062787	drug overdose
+D063806	myalgia
+D064420	drug-related side effects and adverse reactions
+D066126	cardiotoxicity

@@ -1,0 +1,13 @@
+Effects	NNS	effect
+of	IN	of
+COVID-19	NP	<unknown>
+on	IN	on
+Plastic	NP	Plastic
+Surgery	NN	surgery
+Practices	NP	Practices
+and	CC	and
+Medi-Spas	NP	<unknown>
+in	IN	in
+Different	NP	Different
+Countries	NPS	Countries
+.	SENT	.

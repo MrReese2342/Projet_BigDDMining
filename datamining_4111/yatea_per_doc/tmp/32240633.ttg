@@ -1,0 +1,8 @@
+Likelihood	NN	likelihood
+of	IN	of
+survival	NN	survival
+of	IN	of
+coronavirus	NN	<unknown>
+disease	NN	disease
+2019	CD	@card@
+.	SENT	.

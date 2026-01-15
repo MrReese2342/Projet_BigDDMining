@@ -1,0 +1,10 @@
+Inhaled	VVN	inhale
+nitric	JJ	nitric
+oxide	NN	oxide
+treatment	NN	treatment
+in	IN	in
+spontaneously	RB	spontaneously
+breathing	VVG	breathe
+COVID-19	NP	<unknown>
+patients	NNS	patient
+.	SENT	.
