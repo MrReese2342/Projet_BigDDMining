@@ -1,5 +1,7 @@
 # Projet BigDDMining (Big Data & Data Mining) – Extraction de connaissances biomédicales
 
+Lien vers la répo Github: https://github.com/MrReese2342/Projet_BigDDMining
+
 ## Présentation générale
 
 Ce projet a été réalisé dans le cadre du module **Big Data & Data Mining** du  
